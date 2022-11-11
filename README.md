@@ -7,4 +7,4 @@ Un apasionado desarrollador de JAVA y python de Argentina
 
 Conéctate conmigo:
 Idiomas y Herramientas:
-Arduino Bootstrap css3 estibador Git html5 .java MySQL pitón
+Arduino Bootstrap css3 estibador Git html5 java MySQL pithón
