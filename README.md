@@ -1,4 +1,8 @@
-<h1 align="center">Hola 👋, soy Damian Bravo</h1><h3 align="center">Un apasionado desarrollador de JAVA y python de Argentina</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=damianbravo&label=Profile%20views&color=0e75b6&style=flat" alt="damianbravo" /> </p>
+<h1 align="center">Hola 👋, Mi nombre es Damian Bravo</h1><h3 align="center">Un apasionado desarrollador de JAVA y python de Argentina
+estudiante de la Tecnicatura Superior en
+Desarrollo Web y Aplicaciones Digitales
+
+</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=damianbravo&label=Profile%20views&color=0e75b6&style=flat" alt="damianbravo" /> </p>
 
 
 
